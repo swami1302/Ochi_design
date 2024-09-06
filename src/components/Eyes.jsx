@@ -20,7 +20,7 @@ function Eyes() {
 
   return (
     <div className="eyes w-full h-screen overflow-hidden">
-      <div className='relative w-full h-full bg-[url("https://ochi.design/wp-content/uploads/2022/05/Top-Viewbbcbv-1-1440x921.jpg")] bg-cover bg-center'>
+      <div data-scroll data-scroll-speed="-.6" className='relative w-full h-full bg-[url("https://ochi.design/wp-content/uploads/2022/05/Top-Viewbbcbv-1-1440x921.jpg")] bg-cover bg-center'>
         <div className="absolute flex gap-10  top-1/2 left-1/2 -translate-x-[50%] -translate-y-[50%]">
           <div className=" flex justify-center items-center w-[15vw] h-[15v2] bg-zinc-100 rounded-full">
             <div className="relative w-2/3 h-2/3 bg-zinc-900 rounded-full">

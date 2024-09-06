@@ -2,7 +2,7 @@ import React from "react";
 
 function About() {
   return (
-    <div className="w-full rounded-tl-3xl rounded-tr-3xl bg-[#CDEA68] p-20 text-black">
+    <div className="w-full   bg-[#CDEA68] p-20 text-black">
       <h1 className="font-['Neue_Montreal'] text-[3vw] leading-[3.5vw] tracking-tight">
         Ochi is a strategic presentation agency for forward-thinking businesses
         that need to raise funds, sell products, explain complex ideas, and hire
